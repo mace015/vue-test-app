@@ -10,7 +10,7 @@
 
 		<div id="app">
 			
-			<example></example>
+			<example message="Dit is een bericht."></example>
 
 		</div>
 		
